@@ -13,7 +13,8 @@ GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 Use proxies from proxies fo to work on Grass Make Sure to BUY ISP Proxy for work it cost 3$ for 1gb Bandwith
 
 
-![Screenshot 2025-01-03 000328](https://github.com/user-attachments/assets/0c7c00a4-6451-4c09-91aa-a5ccc2be41e8)
+![3 isp](https://github.com/user-attachments/assets/1fdc59c0-8ae8-4d2f-98b7-f8f68034cc66)
+
 
 
 
