@@ -8,7 +8,7 @@ GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 4. Python version 3.10 or Latest
 ### Buy Proxies
 - : 
-1. https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc
+1. [https://app.proxies.fo](https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc)
 Use proxies from proxies fo to work on Grass Make Sure to BUY ISP Proxy for work it cost the cheap first 3$ for 1gb
 
 ![Screenshot 2025-01-03 000328](https://github.com/user-attachments/assets/ae491ca2-17e8-4bbe-a0e5-e104e73bf75f)
