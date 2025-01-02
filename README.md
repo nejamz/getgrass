@@ -8,13 +8,9 @@ GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 4. Python version 3.10 or Latest
 ### Buy Proxies
 - Free Proxies Static Residental: 
-1. [WebShare](https://www.webshare.io/?referral_code=p7k7whpdu2jg)
-2. [ProxyScrape](https://proxyscrape.com/?ref=odk1mmj)
-3. [MonoSans](https://github.com/monosans/proxy-list)
-- Paid Premium Static Residental:
-1. [922proxy](https://www.922proxy.com/register?inviter_code=d03d4fed)
-2. [Proxy-Cheap](https://app.proxy-cheap.com/r/JysUiH)
-3. [Infatica](https://dashboard.infatica.io/aff.php?aff=544)
+1. https://app.proxies.fo/ref/2713843d-b22b-dfb8-3351-775d16d245fc
+Use proxies from proxies fo to work on Grass Make Sure to BUY ISP Proxy for work it cost the cheap first 3$ for 1gb
+
 ### Get Grass UserID
 - Login to https://app.getgrass.io
 - Press f12 go to console, then type ```allow pasting``` insert to console
