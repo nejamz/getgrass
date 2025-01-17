@@ -1,6 +1,7 @@
 # GetGrass Auto Farmer BOT
 GetGrass.io Auto Farmer | Automate Farming Grass use Python and Proxies.
 ## Desktop mode is still in Development. Please use Extension mode!
+## IF You got ERROR! just wait until it comnect.
 ## Tools and components required
 1. GetGrass.io Account UserID | Register: [https://app.getgrass.io](https://app.getgrass.io/register/?referralCode=PnmuSjrqxyxvZsk)
 2. Proxies
